@@ -1,0 +1,7 @@
+{
+  "name": "LoveWall",
+  "description": "LoveWall.",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
